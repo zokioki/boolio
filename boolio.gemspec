@@ -1,13 +1,12 @@
 # coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
+lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'boolio/version'
+require "boolio/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "boolio"
   spec.version       = Boolio::VERSION
   spec.authors       = ["Zoran"]
-  spec.email         = ["zoran1991@gmail.com"]
 
   spec.summary       = %q{A Ruby interface to the booleans.io API.}
   spec.homepage      = "https://github.com/zokioki/boolio"
