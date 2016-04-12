@@ -1,5 +1,7 @@
 # Boolio
 
+[![Gem Version](https://badge.fury.io/rb/boolio.svg)](https://badge.fury.io/rb/boolio)
+
 A Ruby interface to the [booleans.io](https://booleans.io) API.
 
 ## Installation
