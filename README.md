@@ -9,7 +9,7 @@ A Ruby interface to the [booleans.io](https://booleans.io) API.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'boolio'
+gem "boolio"
 ```
 
 Or install it yourself as:
